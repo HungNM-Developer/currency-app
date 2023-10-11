@@ -1,0 +1,11 @@
+//
+//  Define-defaults.xcconfig
+//  Runner
+//
+//  Created by admin on 03/10/2023.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+APP_NAME=currency_app
+APP_SUFFIX=
